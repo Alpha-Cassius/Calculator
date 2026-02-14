@@ -1,6 +1,6 @@
 # Calculator
 
-Here are the concise descriptions for each file, perfect for a GitHub repository:
+Here are the concise descriptions for each file:
 
 * vaibhavpandey_stage1.py: A simple arithmetic tool using if-elif-else to perform operations while preventing crashes from division by zero.
 
