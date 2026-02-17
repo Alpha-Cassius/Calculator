@@ -7,3 +7,5 @@ Here are the concise descriptions for each file:
 * vaibhavpandey_stage2.py: An enhanced version of the basic calculator that analyzes the output to determine if it is positive, negative, or zero.
 
 * vaibhavpandey_stage3.py: A student management script that aggregates marks from three subjects, calculates percentage, and assigns a letter grade (A-F).
+
+THANK YOU
